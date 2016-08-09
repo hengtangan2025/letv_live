@@ -93,10 +93,10 @@ class LetvLiveRoom
 
 end
 
-LetvLiveRoom.set_userid(857550)
-LetvLiveRoom.set_secretkey("ed854df4e84e891fc838cb09be9a5039")
+LetvLiveRoom.set_userid(823474)
+LetvLiveRoom.set_secretkey("f9e35f28944743e38ceccf9ab00364ab")
 
-# # 模块一
+# 模块一
 activity = LetvLiveRoom.new("hello world1", 30)
 
 # 模块二
